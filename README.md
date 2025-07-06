@@ -1,11 +1,3 @@
-# SecureAI-OWASP-Top-10-Vulnerabilty-Scanner
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Cipherkrish69x/SecureAI-OWASP-Top-10-Vulnerabilty-Scanner)
-
-# Save the final polished README content into a markdown file
-readme_path = "/mnt/data/README_SecureAI_Scanner.md"
-
-readme_content = """
 # 🔐 SecureAI Scanner – AI-Powered Web Application Security Assessment
 
 **SecureAI Scanner** is an advanced AI-powered vulnerability assessment tool focused on identifying, analyzing, and remediating web application vulnerabilities using the **OWASP Top 10** as its foundation. Built with modern web technologies, this platform provides a powerful blend of automation, intelligence, and interactivity — all while staying compliant with ethical security standards.
@@ -160,10 +152,9 @@ SecureAI Scanner provides **100% coverage** of the OWASP Top 10 (2021):
 ## 👨‍💻 Author
 
 **Alla Krishna Vamsi Reddy**  
-Cybersecurity Enthusiast | Team Lead, Eternal Guardians – Team F  
-📍 Hyderabad, India  
+Cybersecurity professional 
 📧 krishnavamsi2032@gmail.com  
-🔗 [LinkedIn: cipherkrish69x](https://linkedin.com/in/cipherkrish69x)
+🔗 [LinkedIn: cipherkrish69x](https://linkedin.com/in/krishnavamsireddy)
 
 ---
 
@@ -171,12 +162,3 @@ Cybersecurity Enthusiast | Team Lead, Eternal Guardians – Team F
 
 This tool is intended for **educational and ethical security testing** only.  
 All rights reserved © 2025 – [Alla Krishna Vamsi Reddy](https://github.com/cipherkrish69x)
-
----
-"""
-
-# Save the README to a markdown file
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path  # Return the path to download the final README file
