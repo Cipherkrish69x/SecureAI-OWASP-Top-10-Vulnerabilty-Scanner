@@ -1,4 +1,4 @@
-# 🔐 SecureAI Scanner – AI-Powered OWASP Top 10 Vulnerabilty Scanner
+# 🔐 SecureAI Scanner – AI Powered OWASP Top 10 Vulnerabilty Scanner
 
 **SecureAI Scanner** is an advanced AI-powered vulnerability assessment tool focused on identifying, analyzing, and remediating web application vulnerabilities using the **OWASP Top 10** as its foundation. Built with modern web technologies, this platform provides a powerful blend of automation, intelligence, and interactivity — all while staying compliant with ethical security standards.
 
